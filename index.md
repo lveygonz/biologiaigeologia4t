@@ -7,7 +7,7 @@ title: Biologia i Geologia 4
 #### Sabers (aka "Continguts")
 Sovint trieu o comenceu al curs amb l'expectiva d'estudiar "el cos humà". No tinc molt clar els motius, potser és per extensió del curs de 3r. A 4t, tot i que de vegades s'usarà la nostra espècia com a context, no s'estudia el *cos humà*. Dit això, aquí teniu els blocs de continguts:
 
- #### Projecte científic
+#### Projecte científic
 El primer (el d'enmig i el del final) i més important, que ocuparà la totalitat del curs. Aquí posarem en pràctica les destresses i estratègies característiques de l'actitivitat científica:
 > - Disseny experimental i mètode científic
 - Observació, descripció, interpretació i argumentació
