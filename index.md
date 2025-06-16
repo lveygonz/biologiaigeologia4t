@@ -1,7 +1,7 @@
 ---
-layout: home
 title: A house is not a home
-excerpt: "Benvinguts al quart curs de Biologia i Geologia (ESO)"
+layout: default
+theme: cayman
 ---
 
 # Biologia i Geologia 4
