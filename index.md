@@ -7,12 +7,12 @@ title: Biologia i Geologia 4
 [^bignote]: Aquest curs segueix el [nou currículum](https://projectes.xtec.cat/nou-curriculum/educacio-basica/decret-educacio-basica/), d'acord el Decret 175/2022, i les pautes del disseny universal per a l'aprenentatge ([DUA](https://projectes.xtec.cat/educacioinclusiva/categoria/recursos/dua/)).
 
 # Situacions d'aprenentatge
-- ##### Descobrint els límits entre plaques
-- ##### Drug research
-- ##### Cell divison
-- ##### Tree thinking
-- ##### Mendelarian
-- ##### [Projecte de recerca](pages/researchproject.md)
+- ## Descobrint els límits entre plaques
+- ## Drug research
+- ## Cell divison
+- ## Tree thinking
+- ## Mendelarian
+- ## [Projecte de recerca](pages/researchproject.md)
 
 ### Sabers (aka "Continguts")
 Sovint trieu o comenceu al curs amb l'expectiva d'estudiar "el cos humà". No tinc molt clar els motius, potser és per extensió del curs de 3r. A 4t, tot i que de vegades s'usarà la nostra espècie com a context, no s'estudia el *cos humà*. Dit això, aquí teniu els blocs de continguts:
