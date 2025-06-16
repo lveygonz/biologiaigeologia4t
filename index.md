@@ -1,8 +1,10 @@
 ---
-title: Biologia i Geologia 4 
+title: Biologia i Geologia 4
 ---
 
-*Welcome* al quart curs de Biologia i Geologia, optativa del darrer curs d'ESO. Aquest curs segueix el [nou currículum](https://projectes.xtec.cat/nou-curriculum/educacio-basica/decret-educacio-basica/), d'acord el Decret 175/2022, i les pautes del disseny universal per a l'aprenentatge ([DUA](https://projectes.xtec.cat/educacioinclusiva/categoria/recursos/dua/)). Consulta el [currículum oficial](https://github.com/lveygonz/biologiaigeologia4t/blob/main/officialcurriculum.pdf) de la matèria per obtenir més informació. 
+*Welcome* al quart curs de Biologia i Geologia, optativa del darrer curs d'ESO.  Consulta el [currículum oficial](https://github.com/lveygonz/biologiaigeologia4t/blob/main/officialcurriculum.pdf) de la matèria per obtenir més informació[^bignote].
+
+[^bignote]: Aquest curs segueix el [nou currículum](https://projectes.xtec.cat/nou-curriculum/educacio-basica/decret-educacio-basica/), d'acord el Decret 175/2022, i les pautes del disseny universal per a l'aprenentatge ([DUA](https://projectes.xtec.cat/educacioinclusiva/categoria/recursos/dua/)).
 
 ### Sabers (aka "Continguts")
 Sovint trieu o comenceu al curs amb l'expectiva d'estudiar "el cos humà". No tinc molt clar els motius, potser és per extensió del curs de 3r. A 4t, tot i que de vegades s'usarà la nostra espècia com a context, no s'estudia el *cos humà*. Dit això, aquí teniu els blocs de continguts:
