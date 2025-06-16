@@ -1,7 +1,6 @@
 ---
 title: A house is not a home
 layout: default
-theme: cayman
 ---
 
 # Biologia i Geologia 4
