@@ -1,6 +1,6 @@
 ---
 title: A house is not a home
-layout: default
+layout: home
 ---
 
 # Biologia i Geologia 4
