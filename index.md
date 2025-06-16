@@ -12,7 +12,7 @@ title: Biologia i Geologia 4
 - ##### Cell divison
 - ##### Tree thinking
 - ##### Mendelarian
-- ##### [Projecte de recerca](researchproject.md)
+- ##### [Projecte de recerca](pages/researchproject.md)
 
 ### Sabers (aka "Continguts")
 Sovint trieu o comenceu al curs amb l'expectiva d'estudiar "el cos humà". No tinc molt clar els motius, potser és per extensió del curs de 3r. A 4t, tot i que de vegades s'usarà la nostra espècie com a context, no s'estudia el *cos humà*. Dit això, aquí teniu els blocs de continguts:
