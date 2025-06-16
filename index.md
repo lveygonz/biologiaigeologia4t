@@ -6,6 +6,10 @@ title: Biologia i Geologia 4
 
 [^bignote]: Aquest curs segueix el [nou currículum](https://projectes.xtec.cat/nou-curriculum/educacio-basica/decret-educacio-basica/), d'acord el Decret 175/2022, i les pautes del disseny universal per a l'aprenentatge ([DUA](https://projectes.xtec.cat/educacioinclusiva/categoria/recursos/dua/)).
 
+## Tititi
+* TOC
+{:toc}
+
 ## Situacions d'aprenentatge
 - ### Descobrint els límits entre plaques
 - ### Drug research
