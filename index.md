@@ -1,5 +1,5 @@
 ---
-title: ESO Biologia i Geologia - 4t 
+title: Biologia i Geologia 4 
 ---
 
 # Biologia i Geologia 4
