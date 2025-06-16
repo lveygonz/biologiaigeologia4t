@@ -13,18 +13,18 @@ El primer (el d'enmig i el del final) i més important, que ocuparà la totalita
 - Observació, descripció, interpretació i argumentació
 - Elaboració de models
 
-##### Geologia
+> ##### Geologia
 Analitzarem la tectònica de plaques per interpretar l'estructura i la dinàmica de la geosfera. També farem una anàlisi dels riscos naturals i la seva relació amb els processos geològics externs i interns.
 
-##### La terra en l'univers
+> ##### La terra en l'univers
 - Hipòtesis sobre l'origen de la vida
 - Introducció a l'astrobiologia.
 
-##### La cèl·lula
+ > ##### La cèl·lula
 - Organització cel·lular
 - Mecanismes de divisó cel·lular i regulació del cicle cel·lular
 
-##### Genètica i evolució
+> ##### Genètica i evolució
 - Conceptes bàsics sobre l'herència (ex: genotip/fenotip, al·lel, etc.), patrons herència mendeliana.
 - Integració amb la genètica molecular: àcids nucleics (ADN i ARN), mutacions i expressió gènica
 - Conceptes bàsics sobre evolució, mecanismes evolutius i interpretació de l'evolució biològica.
