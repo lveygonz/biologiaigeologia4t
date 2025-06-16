@@ -42,6 +42,20 @@ Isso
 
 
 #### Situacions d'aprenentatge
+<table class="attractive-table">
+  <tr>
+    <th>Feature</th>
+    <th>Status</th>
+  </tr>
+  <tr>
+    <td>Dark Mode</td>
+    <td><strong>Done</strong></td>
+  </tr>
+  <tr>
+    <td>Tables</td>
+    <td><em>Planned</em></td>
+  </tr>
+</table>
 
 | Situacions d'aprenentatge           |
 |-------------------------------------|
