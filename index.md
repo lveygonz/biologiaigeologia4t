@@ -1,5 +1,5 @@
 ---
-layout:home
+layout: home
 title: Biologia i Geologia 4
 ---
 # Home
