@@ -2,7 +2,7 @@
 layout: home
 title: Biologia i Geologia 4
 ---
-# Home
+
 *Welcome* al quart curs de Biologia i Geologia, optativa del darrer curs d'ESO.  Consulta el [currículum oficial](https://github.com/lveygonz/biologiaigeologia4t/blob/main/officialcurriculum.pdf) de la matèria per obtenir més informació[^bignote].
 
 [^bignote]: Aquest curs segueix el [nou currículum](https://projectes.xtec.cat/nou-curriculum/educacio-basica/decret-educacio-basica/), d'acord el Decret 175/2022, i les pautes del disseny universal per a l'aprenentatge ([DUA](https://projectes.xtec.cat/educacioinclusiva/categoria/recursos/dua/)).
