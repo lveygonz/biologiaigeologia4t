@@ -1,6 +1,6 @@
 theme: minima
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+  - jekyll-feed
 title: [Biologia i Geologia 4]
 description: [Una proposta pel quart curs de l'ESO]
 custom_css: assets/css/custom.css
